@@ -101,6 +101,10 @@ Plugins/PocketWorlds/*
 
 Plugins/UIExtension/*
 
+Plugins/RTSFormations/*
+
+Plugins/MassCommunitySample/*
+
 Plugins/GameFeatures/ShooterCore/*
 
 Plugins/GameFeatures/ShooterExplorer/*
