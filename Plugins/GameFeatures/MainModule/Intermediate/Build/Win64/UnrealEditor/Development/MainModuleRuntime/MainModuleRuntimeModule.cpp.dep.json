@@ -1,0 +1,14 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "m:\\unreal engine\\unrealprojects\\projects\\plugins\\gamefeatures\\mainmodule\\source\\mainmoduleruntime\\private\\mainmoduleruntimemodule.cpp",
+        "ProvidedModule": "",
+        "PCH": "m:\\unreal engine\\unrealprojects\\projects\\intermediate\\build\\win64\\lyraeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "m:\\unreal engine\\unrealprojects\\projects\\plugins\\gamefeatures\\mainmodule\\intermediate\\build\\win64\\unrealeditor\\development\\mainmoduleruntime\\definitions.mainmoduleruntime.h",
+            "m:\\unreal engine\\unrealprojects\\projects\\plugins\\gamefeatures\\mainmodule\\source\\mainmoduleruntime\\public\\mainmoduleruntimemodule.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
