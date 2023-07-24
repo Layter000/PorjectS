@@ -26,6 +26,12 @@ public class MainModuleRuntime : ModuleRules
 			new string[]
 			{
 				"Core",
+				"ModularGameplay",
+				"ModularGameplayActors",
+				"CommonGame",
+				"GameplayAbilities",
+				"LyraGame",
+				
 				// ... add other public dependencies that you statically link with here ...
 			}
 			);
@@ -38,6 +44,33 @@ public class MainModuleRuntime : ModuleRules
 				"Engine",
 				"Slate",
 				"SlateCore",
+				"GameplayTags",
+				"GameplayTags",
+				"GameplayTasks",
+				"GameplayMessageRuntime",
+				"AIModule",
+				"Niagara",
+				"CommonUser",
+				"CommonUI",
+				"CommonInput",
+				"NetworkReplayStreaming",
+				"DataRegistry",
+				"UIExtension",
+				"ClientPilot",
+				"InputCore",
+				"RenderCore",
+				"DeveloperSettings",
+				"EnhancedInput",
+				"NetCore",
+				"RHI",
+				"Projects",
+				"UMG",
+				"GameplayMessageRuntime",
+				"AudioMixer",
+				"NetworkReplayStreaming",
+				"UIExtension",
+				"ClientPilot",
+
 				// ... add private dependencies that you statically link with here ...	
 			}
 			);

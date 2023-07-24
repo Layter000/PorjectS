@@ -1,0 +1,12 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UnrealEditor-MainModuleRuntime.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+/OUT:"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\UnrealEditor-MainModuleRuntime.lib"

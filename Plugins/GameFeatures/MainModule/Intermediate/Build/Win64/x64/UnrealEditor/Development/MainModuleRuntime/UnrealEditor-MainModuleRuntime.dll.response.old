@@ -1,0 +1,96 @@
+/MANIFEST:EMBED
+/MANIFESTINPUT:"..\Build\Windows\Resources\Default-Win64.manifest"
+/NOLOGO
+/DEBUG:FULL
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/FIXED:No
+/NXCOMPAT
+/STACK:12000000
+/DELAY:UNLOAD
+/DLL
+/PDBALTPATH:%_PDB%
+/fastfail
+/OPT:NOREF
+/OPT:NOICF
+/INCREMENTAL:NO
+/ignore:4199
+/ignore:4099
+/DELAYLOAD:"d3d12.dll"
+/DELAYLOAD:"DBGHELP.DLL"
+/LIBPATH:"C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\lib\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\ucrt\x64"
+/LIBPATH:"C:\Program Files (x86)\Windows Kits\10\lib\10.0.18362.0\um\x64"
+/NODEFAULTLIB:"LIBCMT"
+/NODEFAULTLIB:"LIBCPMT"
+/NODEFAULTLIB:"LIBCMTD"
+/NODEFAULTLIB:"LIBCPMTD"
+/NODEFAULTLIB:"MSVCRTD"
+/NODEFAULTLIB:"MSVCPRTD"
+/NODEFAULTLIB:"LIBC"
+/NODEFAULTLIB:"LIBCP"
+/NODEFAULTLIB:"LIBCD"
+/NODEFAULTLIB:"LIBCPD"
+/FUNCTIONPADMIN:6
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp.obj"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Slate\UnrealEditor-Slate.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\SlateCore\UnrealEditor-SlateCore.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTags\UnrealEditor-GameplayTags.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayTasks\UnrealEditor-GameplayTasks.lib"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayMessageRuntime\UnrealEditor-GameplayMessageRuntime.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\AIModule\UnrealEditor-AIModule.lib"
+"..\Plugins\FX\Niagara\Intermediate\Build\Win64\x64\UnrealEditor\Development\Niagara\UnrealEditor-Niagara.lib"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonUser\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonUser\UnrealEditor-CommonUser.lib"
+"..\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonUI\UnrealEditor-CommonUI.lib"
+"..\Plugins\Experimental\CommonUI\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonInput\UnrealEditor-CommonInput.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetworkReplayStreaming\UnrealEditor-NetworkReplayStreaming.lib"
+"..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\x64\UnrealEditor\Development\DataRegistry\UnrealEditor-DataRegistry.lib"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\UIExtension\Intermediate\Build\Win64\x64\UnrealEditor\Development\UIExtension\UnrealEditor-UIExtension.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\ClientPilot\UnrealEditor-ClientPilot.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputCore\UnrealEditor-InputCore.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\UnrealEditor-RenderCore.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeveloperSettings\UnrealEditor-DeveloperSettings.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetCore\UnrealEditor-NetCore.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RHI\UnrealEditor-RHI.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Projects\UnrealEditor-Projects.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\UMG\UnrealEditor-UMG.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\AudioMixer\UnrealEditor-AudioMixer.lib"
+"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Core\UnrealEditor-Core.lib"
+"..\Plugins\Experimental\ModularGameplay\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModularGameplay\UnrealEditor-ModularGameplay.lib"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\ModularGameplayActors\Intermediate\Build\Win64\x64\UnrealEditor\Development\ModularGameplayActors\UnrealEditor-ModularGameplayActors.lib"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonGame\Intermediate\Build\Win64\x64\UnrealEditor\Development\CommonGame\UnrealEditor-CommonGame.lib"
+"..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\x64\UnrealEditor\Development\GameplayAbilities\UnrealEditor-GameplayAbilities.lib"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Intermediate\Build\Win64\x64\UnrealEditor\Development\LyraGame\UnrealEditor-LyraGame.lib"
+"delayimp.lib"
+"wininet.lib"
+"rpcrt4.lib"
+"ws2_32.lib"
+"dbghelp.lib"
+"comctl32.lib"
+"Winmm.lib"
+"kernel32.lib"
+"user32.lib"
+"gdi32.lib"
+"winspool.lib"
+"comdlg32.lib"
+"advapi32.lib"
+"shell32.lib"
+"ole32.lib"
+"oleaut32.lib"
+"uuid.lib"
+"odbc32.lib"
+"odbccp32.lib"
+"netapi32.lib"
+"iphlpapi.lib"
+"setupapi.lib"
+"dwmapi.lib"
+"imm32.lib"
+/OUT:"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Binaries\Win64\UnrealEditor-MainModuleRuntime.dll"
+/IMPLIB:"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\UnrealEditor-MainModuleRuntime.suppressed.lib"
+/PDB:"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Binaries\Win64\UnrealEditor-MainModuleRuntime.pdb"
+/ignore:4078
