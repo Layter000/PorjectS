@@ -79,243 +79,62 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71c1124a-d253-433f-8e1f-01c558399af8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Config/Tags/CameraGametags.ini" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/CM_PlayerCamera.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/AC_.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/B_PlayerCameraCharacter.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_InputConfig_CameraPlayer.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraMove.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraZoom.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Configs/PMI_Camera_Gamepad.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Configs/PMI_Camera_KBM.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Mappable/IMC_Camera_KBM.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Mappable/IMC_Default_Gamepad.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Map/CameraTestMap.umap" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Map/CameraTestMap_HLOD0_Instancing.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_StrategyHUDLayout.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_Test.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/0/1S/0OAN5VIHMLL9DJYND5FRL0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/0/5Q/5Y7IPECQAG6449J4LDVXU4.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/0/9T/VLEUB1O064VCAISPB0LAYG.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/0/GQ/FIZVR72TSMVH8C2WLYQKDA.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/0/JO/ZP3GZ7EV02V4NSAOQ9OIP8.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/0/OV/22DDX9JB08N64J5FQF8G6X.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/0/SQ/BZ414AQUJ8QB4YVHUPUHU3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/0/VI/H7Y84IFA527C5RC6WXXXFZ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/0H/LXN9K7TH7L61CS2UV4F7MA.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/3Z/MYNCH0VYPC44KGGQKJVR7C.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/8W/RWA9LIHQP7YP5L2ATH6NQS.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/FH/WWGR00WQQFEZTNK5LVR1RA.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/GD/LGS20CJG78X2OBJ0VKES0D.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/HP/D5DDMM9ML7TZS9H0TIKIJI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/P5/3Z2T9CQUENLF94D0C7MUMU.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/RV/WYAQDH8L2C4ON1VDOGWRA2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/TM/CY09TIHTNIACOZWQRHYRCK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/WC/L6T9NDTIZDAOPFLMZ15DM6.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/1/ZD/LJSE7ZBSK4G5S8ZN14RFJD.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/5A/0Y3QA5AJW5VAQJHJF729WW.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/7N/C4545O4KEE3WUJCDVHV5W5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/A3/NJO0WA4SO3RNCMFMWIMN72.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/A9/9SSU41F5N1J58BYPCQYTDY.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/B4/HF1EVBNK4GJY21FV4Q35JG.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/NW/EBG8XY33RVMDZCDGZB8EU0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/T2/E5SKR3C1GK3TNM5R3ZF9IR.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/3K/U8HG8329T2FT2VVV6MB2PP.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/3P/KKLSO4FQFBBNZNCI6QQMD2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/AW/1K0VQZCT3MG28JSU8LDWLN.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/KO/733L5XADPZAVD2QNEQVEKC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/KW/MIKQGG4KQG9SHST7Z45MLJ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/MK/UDVEFYHU96IFMMYTOFGVQ5.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/S7/HRC06IB6ZAAPBDPKWHFKYS.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/S9/4T34LZFWC3X7L0HHRMW5EW.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/TF/66S6GREAUQ7D8SQ7SMNUQO.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/U1/SSLUWTFDRCFM7CL8FCFH8P.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/ZT/URUVWU66SK9FUGZGWJ3UJX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/3/ZU/OD678EDZWJPK7FGIHAGWYD.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/1E/MQIL7037DV004OUJA70QDZ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/1W/7EJC9YOQR0OINQSAIDK8I3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/FF/YZK28YAF21V2UQDIB46G64.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/M1/ZF5R7DGX7ZULH1K2VL8X7O.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/NY/6S8XIXIONRO0WR9NX2468R.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/QO/4L8N0JFFMF1406PLD2D139.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/TO/6CNPGLJ62DUFICHY6XHUWI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/U3/XW5H3CTEHWDVKBJS1X5MJF.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/UO/WNXFIVNJYG4ON52BNO38JF.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/UX/ZCB4KR8988MSTV5CA4F0NW.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/4/V2/GPWLDAQJEK36PCGFQIHNNM.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/55/GY3HBSSGIGKLZS5ZMIQJNQ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/6A/M7URGZH57WMTAZBZQYT5H9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/83/G2M4KHLFTEIO3K8YTFUU5N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/B3/AUFMU55FKI1280UZJR9E7S.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/BV/8TZ72I5JPIPSU1GVC25IVV.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/D5/881AFA4JBQ2R0TKP306QT2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/GY/2CDG7RSXJIEIOWA1D6NT64.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/I4/SA41VTDA3YHXO38OJWQLJU.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/N1/D8MS62OYMBS6DXDW04LU8F.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/UD/R3VQT14F49UIST338GD10P.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/X6/AXOV8M2S8BWZ15ZWKEN1YO.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/5/XQ/2QA67DIIMBBW1SC2MEZT8A.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/8Y/8UPBBLJ8ASQWKY0TFYPD02.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/CV/HWSYHNVFNWEULKP03BCAVK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/E0/OOV49VWEM2PZP0K9DGSZCS.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/F8/8PYAMQXKVQIF2H0AEDUQ7V.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/J0/274F3CA67L8QRRCSZF9VS0.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/KJ/963MTKF9RKYHN6VAR5Y3OX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/LC/SW5702BJZQ1QLUTMY2Q3F1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/R5/CNQ802EIGTOCULU62NYAAC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/RN/3HBZ2Z5CK8UZM4ZCF6O1FA.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/SZ/16Q71QAOX49M09H8MUWT2M.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/US/3JBQPBJSROVY8LCU8SVGGF.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/X3/UCXB03IK2JBKMEP29KGC1C.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/YX/A32HIIY3YE0ZD4X3IWC5T2.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/6/Z7/OKZHSN2OHRA83X7WR79G8C.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/7/5F/MXVYORAI6G5YOPDHOTWLE3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/7/99/J2XXUIFTFNSMEB6MFKI7QM.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/7/AC/C7L6F8XZQMCPDFZYDWAYDJ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/7/GB/JP6AU8XFTKWBQUZPNXWQF3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/7/JN/86MQ7IAU51J2G0T43ZF0DE.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/7/XX/WUMVL5Q6CHLBRQMRE0E2EM.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/1I/M4QLD9SOF95J2V4AQ7HBKN.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/60/W5051BHHNS3J3ED4MM9T03.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/7B/QZA47MBPFI2SIQJWI3659R.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/FC/JJSAHQ9XZV062HSKPTK803.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/HO/OVDRDQA073GQY2YYYONXS8.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/NZ/OWO0ZCLXUUEGMML0BXA1EF.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/SC/MYXF5RIWC6DJNW9AIFW4U3.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/SI/2WSONXQ63ABOPZK0X0ENYH.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/T1/YME3Q3LD6UW2DVEHV6VVPL.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/W5/H9QVOA4HGCSN2P89WSEGQH.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/8/ZA/O60NEQ0TDSWNB6WXKDB6I9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/9/4A/C2W16NS9ZFD2SC64CBSYLI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/9/58/67LZ19IVADFB215AY4EP08.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/9/6D/ECIAGO6EGUGPD0JLAEO7ZW.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/9/OD/70NVMW1NM0XOTALEWGZWQ9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/A/1S/QMAALEUKVH3VJYBRF56C3N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/A/25/2IUMUF43VDF3EONYBPI9PO.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/A/9U/DPXVS8SVOG7T5S1UXAC9UT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/A/CP/QVTIVDTD25HHB3QE4TDG23.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/A/DL/TGA3FIQNDVH16WRBQK7PJW.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/A/JQ/KK7S6166ZYMYE9S1A6RYK1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/A/PE/G6RPW4QQFA7OYTNUK4ZOZ7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/A/XA/QUO0WKXCIS1YTB39KD9J4S.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/B/5T/O5377LMNPX51OHL2ZHQS3S.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/B/8S/RD6RPKN7L2738FH6CHYN83.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/B/A7/RELG7CD2PXQ8EOLUK4N7GI.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/B/EA/ESP7RHILXI8HXJ61O25YIS.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/B/FF/TRLGC2OZC4BBAB0H52BTOJ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/B/MY/TYBH8842KAPAUEZFLESBGW.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/B/WN/CY92RBK68802RZC6K79442.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/C/49/47KAGTNUYXFYWL6CQQ9XQN.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/C/6I/HLP7QWK7U30H9JXSMPN7NC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/C/9L/HOFXVF1MTMQP3SJDW46H5C.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/C/K7/79DKXGAJ7LPWZ1DEXJZHJU.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/C/MI/DUVH02L86Q4ZTCTOOSITWC.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/C/X1/X3QMZFLU31YIET58RB3DEU.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/C/YU/0PS2ZZE066S2OA5HMWGZX9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/C/ZW/JR0FNWUG0Q87MPH99X4NW1.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/0B/WXW78QB2EKWXKK6NU9EWNT.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/3O/ILUT8B18OB80H3UHE6P3AO.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/FT/K8OS0QWFY6LR1A9UQVFRH7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/KI/SYMCZYGARDKC26ER96PWUQ.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/KR/RC3RRUTN79KM1JUQY0FOMO.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/ML/HKKEHU2K9FRLRN0BMNPSK9.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/QY/AYK1BR8IL7T0L8COIVUBCX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/SZ/XJQ2HUNQHYV98I2UVNODOH.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/D/V2/EYT8IFNEBFM04IAIPOW70R.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/0U/VR2WFEDOOSBQKGHG4WDXFU.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/58/S2AKN26M7I741EYKPUKH6H.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/6G/MZGPOOQ6HE4I2K5QBEO5W8.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/71/8IDOX872WX5WGFNYMSPTLH.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/BK/05RSPQ7BFYPF4YJSIZ828N.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/H8/HS5L92FN6AUIGMGKTZOS9F.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/ZL/ZS8SGO35UV3VWRVJLQZGP7.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/F/2O/VF6V44AFB25AHBJE6XTDDG.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/F/3E/02E77AP3PGRQMEXDHV9746.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/F/3I/AS2YOSH0LH8CU8YTTCSJHX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalObjects__/Map/CameraTestMap/4/6D/2YWL3I16E59HSEEA6D1TBK.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalObjects__/Map/CameraTestMap/5/DI/3XHFSFP7H6EWT3HV2GC990.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalObjects__/Map/CameraTestMap/8/8W/8L2NKY5736TMK30HL11BHL.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalObjects__/Map/CameraTestMap/B/PY/S58QL8JI10WWR8M8LTKNNX.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalObjects__/Map/CameraTestMap/D/2V/C7FJFOJF43MA56G4N777UP.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraPlayerGameplayTags.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraPlayerGameplayTags.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraCharacter.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraCharacter.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraHeroComponent.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraHeroComponent.h" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/TestActor.cpp" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/TestActor.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/indexLayout.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/indexLayout.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/projectSettingsUpdater.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/projectSettingsUpdater.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Abilitys/GA_Camera_FocusMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Effects/GE_FocusMode_Cooldown.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/Player/B_CameraController.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/Player/B_PlayerCameraCharacter.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/Spawner/B_Spawner.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/Spawner/EQS/EQS_Spawner_FIeldArround.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CamMove.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_Cam_Look_Mouse.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraRotateMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CharMove.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_Char_Look_Mouse.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_FocusMode.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_MouseClick01.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_MouseClick02.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_MouseClick03.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Materials/SelectingRing/MI_SelectingRing.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Materials/SelectingRing/M_SelectingRing.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Pawns/B_AgentBase.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Pawns/Interfaces/BPI_SelectebleActor.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/B_LyraHUD.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/N2/AOS8HFVQET0GUF75IJZOE5.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.vsconfig" beforeDir="false" afterPath="$PROJECT_DIR$/.vsconfig" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Android/AndroidEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Android/AndroidEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Android/AndroidGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Android/AndroidGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Android/AndroidScalability.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Android/AndroidScalability.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Android/Custom/EOS/AndroidEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Android/Custom/EOS/AndroidEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Custom/EOS/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Custom/EOS/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Custom/EOS/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Custom/EOS/DefaultGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultDeviceProfiles.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultDeviceProfiles.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditor.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditor.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditorKeyBindings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditorKeyBindings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditorPerProjectUserSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditorPerProjectUserSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEditorSettings.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEditorSettings.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGame.ini" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultInput.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultInput.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultRuntimeOptions.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultRuntimeOptions.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/DefaultScalability.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultScalability.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/IOS/IOSEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/IOS/IOSEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/IOS/IOSGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/IOS/IOSGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/IOS/IOSScalability.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/IOS/IOSScalability.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Linux/LinuxEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Linux/LinuxEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Linux/LinuxGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Linux/LinuxGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/EngineOverrides_Compile.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/EngineOverrides_Compile.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/EngineOverrides_Export.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/EngineOverrides_Export.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/EngineOverrides_ExportDialogueScript.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/EngineOverrides_ExportDialogueScript.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/EngineOverrides_Gather.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/EngineOverrides_Gather.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/EngineOverrides_GenerateReports.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/EngineOverrides_GenerateReports.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/EngineOverrides_Import.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/EngineOverrides_Import.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/EngineOverrides_ImportDialogue.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/EngineOverrides_ImportDialogue.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/EngineOverrides_ImportDialogueScript.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/EngineOverrides_ImportDialogueScript.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/Game_Compile.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/Game_Compile.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/Game_Export.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/Game_Export.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/Game_ExportDialogueScript.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/Game_ExportDialogueScript.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/Game_Gather.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/Game_Gather.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/Game_GenerateReports.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/Game_GenerateReports.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/Game_Import.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/Game_Import.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/Game_ImportDialogue.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/Game_ImportDialogue.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Localization/Game_ImportDialogueScript.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Localization/Game_ImportDialogueScript.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Mac/MacEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Mac/MacEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Mac/MacGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Mac/MacGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Windows/Custom/EOS/WindowsEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Windows/Custom/EOS/WindowsEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Windows/WindowsEngine.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Windows/WindowsEngine.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Config/Windows/WindowsGame.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/Windows/WindowsGame.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Android/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Android/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/IOS/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/IOS/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Linux/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Linux/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Mac/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Mac/readme.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Platforms/Windows/readme.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Platforms/Windows/readme.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_0.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_1.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_2.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_3.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_4.pdb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_5.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.pdb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor.modules" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Experiences/B_Strategy_Experience.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Experiences/B_Strategy_Experience.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/AC_.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/B_AgentBase.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/B_PlayerCameraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/B_PlayerCameraCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_AbilitySet_ProjectS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_AbilitySet_ProjectS.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_InputConfig_CameraPlayer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_InputConfig_CameraPlayer.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_PawnData_ProjectS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_PawnData_ProjectS.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/Default.rc2.res.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/Default.rc2.res.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/Definitions.MainModuleRuntime.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/Definitions.MainModuleRuntime.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/LiveCodingInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/LiveCodingInfo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/MainModuleRuntimeModule.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/MainModuleRuntimeModule.cpp.dep.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/MainModuleRuntimeModule.cpp.obj.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/MainModuleRuntimeModule.cpp.obj.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraMove.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraZoom.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraZoom.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Mappable/IMC_Camera_KBM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Mappable/IMC_Camera_KBM.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_StrategyHUDLayout.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_StrategyHUDLayout.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Inc/MainModuleRuntime/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Inc/MainModuleRuntime/UHT/Timestamp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/LiveCodingInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/LiveCodingInfo.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.dep.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.dep.lc.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.dep.lc.json" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response.old" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.exp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response.old" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/MainModule.uplugin" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/MainModule.uplugin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/MainModuleRuntime.Build.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/MainModuleRuntime.Build.cs" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/Private/MainModuleRuntimeModule.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/Private/MainModuleRuntimeModule.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/Public/MainModuleRuntimeModule.h" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/Public/MainModuleRuntimeModule.h" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/ProjectS.uproject" beforeDir="false" afterPath="$PROJECT_DIR$/ProjectS.uproject" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.cpp" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraHeroComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraHeroComponent.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -328,6 +147,7 @@
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Experimental/ModularGameplay/Source/ModularGameplay/Public/Components/GameFrameworkComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Experimental/ModularGameplay/Source/ModularGameplay/Public/Components/PawnComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/GameplayCueInterface.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Source/Runtime/AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_GameplayTags.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Config/Tags/CameraGametags.ini" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -360,15 +180,17 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
-    &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.60081744&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "XThreadsFramesViewSplitterKey": "0.36541355",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "editor.preferences.tabs",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RunManager" selected="C++ Project.ProjectS">
     <configuration name="BaseTextureBuildWorker" type="CppProject" factoryName="C++ Project" folderName="Programs">
       <configuration_1>
@@ -27854,7 +27676,18 @@
       <workItem from="1688813436545" duration="1235000" />
       <workItem from="1689365463628" duration="593000" />
       <workItem from="1689443718262" duration="1783000" />
-      <workItem from="1690114976826" duration="5902000" />
+      <workItem from="1690114976826" duration="8892000" />
+      <workItem from="1690306985533" duration="476000" />
+      <workItem from="1690309233659" duration="454000" />
+      <workItem from="1690310027637" duration="253000" />
+      <workItem from="1690312905211" duration="1893000" />
+      <workItem from="1690358574811" duration="3383000" />
+      <workItem from="1690378289081" duration="3365000" />
+      <workItem from="1690391633883" duration="10536000" />
+      <workItem from="1690449032862" duration="923000" />
+      <workItem from="1690453937961" duration="601000" />
+      <workItem from="1690457472693" duration="594000" />
+      <workItem from="1690463615467" duration="14419000" />
     </task>
     <servers />
   </component>

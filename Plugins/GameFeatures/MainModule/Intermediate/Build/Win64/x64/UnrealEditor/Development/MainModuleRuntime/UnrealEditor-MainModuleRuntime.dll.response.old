@@ -35,6 +35,7 @@
 /FUNCTIONPADMIN:6
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp.obj"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\PlayerCameraHeroComponent.cpp.obj"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\CoreUObject\UnrealEditor-CoreUObject.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\UnrealEditor-Engine.lib"
@@ -55,6 +56,7 @@
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\InputCore\UnrealEditor-InputCore.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RenderCore\UnrealEditor-RenderCore.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\DeveloperSettings\UnrealEditor-DeveloperSettings.lib"
+"..\Plugins\EnhancedInput\Intermediate\Build\Win64\x64\UnrealEditor\Development\EnhancedInput\UnrealEditor-EnhancedInput.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\NetCore\UnrealEditor-NetCore.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\RHI\UnrealEditor-RHI.lib"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Projects\UnrealEditor-Projects.lib"

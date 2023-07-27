@@ -8,5 +8,7 @@
 /NODEFAULTLIB
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
 "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp.obj"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\CameraMode_PlayerCamera.cpp.obj"
+"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\PlayerCameraHeroComponent.cpp.obj"
 "..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Default.rc2.res"
 /OUT:"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\UnrealEditor-MainModuleRuntime.lib"

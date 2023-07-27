@@ -3,6 +3,8 @@
 
 #include "CameraMode_PlayerCamera.h"
 
+#include "Kismet/KismetMathLibrary.h"
+
 UCameraMode_PlayerCamera::UCameraMode_PlayerCamera()
 {
 
@@ -11,8 +13,10 @@ UCameraMode_PlayerCamera::UCameraMode_PlayerCamera()
 void UCameraMode_PlayerCamera::UpdateView(float DeltaTime)
 {
 	FRotator PivotRotation = GetPivotRotation() + DefaultPivotRotation;
-	const FVector PivotLocation = GetPivotLocation() + FVector::UpVector * StartingHeight;
 
+	const FVector PivotLocation = GetPivotLocation() + FVector::UpVector * StartingHeight;
+	//FRotator PivotRotation = UKismetMathLibrary::FindLookAtRotation(PivotLocation, GetPivotLocation());
+	
 	PivotRotation.Pitch = FMath::ClampAngle(PivotRotation.Pitch, ViewPitchMin, ViewPitchMax);
 
 	View.Location = PivotLocation;

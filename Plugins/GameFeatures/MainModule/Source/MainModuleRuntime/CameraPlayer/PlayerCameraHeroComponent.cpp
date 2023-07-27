@@ -102,8 +102,15 @@ void UPlayerCameraHeroComponent::InitializePlayerInput(UInputComponent* PlayerIn
 	UEnhancedInputLocalPlayerSubsystem* Subsystem = LP->GetSubsystem<UEnhancedInputLocalPlayerSubsystem>();
 	check(Subsystem);
 
-	Subsystem->ClearAllMappings();
 
+	
+	
+	//return;
+	
+	//Subsystem->ClearAllMappings();
+
+	
+	
 	if (const ULyraPawnExtensionComponent* PawnExtComp = ULyraPawnExtensionComponent::FindPawnExtensionComponent(Pawn))
 	{
 		if (const ULyraPawnData* PawnData = PawnExtComp->GetPawnData<ULyraPawnData>())
@@ -141,8 +148,8 @@ void UPlayerCameraHeroComponent::InitializePlayerInput(UInputComponent* PlayerIn
 		bReadyToBindInputs = true;
 	}
 
-	UGameFrameworkComponentManager::SendGameFrameworkComponentExtensionEvent(const_cast<APlayerController*>(PC), NAME_BindInputsNow);
-	UGameFrameworkComponentManager::SendGameFrameworkComponentExtensionEvent(const_cast<APawn*>(Pawn), NAME_BindInputsNow);
+	// UGameFrameworkComponentManager::SendGameFrameworkComponentExtensionEvent(const_cast<APlayerController*>(PC), NAME_BindInputsNow);
+	// UGameFrameworkComponentManager::SendGameFrameworkComponentExtensionEvent(const_cast<APawn*>(Pawn), NAME_BindInputsNow);
 }
 
 void UPlayerCameraHeroComponent::Input_MoveCamera(const FInputActionValue& InputActionValue)
@@ -193,61 +200,61 @@ void UPlayerCameraHeroComponent::Input_MoveCamera(const FInputActionValue& Input
 
 void UPlayerCameraHeroComponent::Input_DragCamera(const FInputActionValue& InputActionValue)
 {
-	if (!IsDragging && InputActionValue.Get<bool>())
-	{
-		IsDragging = true;
-		DragStartLocation = UWidgetLayoutLibrary::GetMousePositionOnViewport(GetWorld());
-	}
-
-	else if (IsDragging && InputActionValue.Get<bool>())
-	{
-		APawn* Pawn = GetPawn<APawn>();
-		AController* Controller = Pawn ? Pawn->GetController() : nullptr;
-
-		// If the player has attempted to move again then cancel auto running
-		if (ALyraPlayerController* LyraController = Cast<ALyraPlayerController>(Controller))
-		{
-			LyraController->SetIsAutoRunning(false);
-		}
-
-		const auto MousePosition = UWidgetLayoutLibrary::GetMousePositionOnViewport(GetWorld());
-		auto DragExtents = UWidgetLayoutLibrary::GetViewportWidgetGeometry(GetWorld()).GetLocalSize();
-		DragExtents *= DragExtent;
-
-		auto Delta = MousePosition - DragStartLocation;
-		Delta.X = FMath::Clamp(Delta.X, -DragExtents.X, DragExtents.X) / DragExtents.X;
-		Delta.Y = FMath::Clamp(Delta.Y, -DragExtents.Y, DragExtents.Y) / DragExtents.Y;
-
-		const FRotator MovementRotation(0.0f, Controller->GetControlRotation().Yaw, 0.0f);
-
-		FGameplayTagContainer CameraTags;
-		CameraTags.AddTagFast(TAG_Camera_Drag);
-		if (Delta.X > 0.0f) {
-			CameraTags.AddTag(TAG_Direction_Right);
-		}
-		else {
-			CameraTags.AddTag(TAG_Direction_Left);
-		}
-		if (Delta.Y > 0.0f) {
-			CameraTags.AddTag(TAG_Direction_Up);
-		}
-		else {
-			CameraTags.AddTag(TAG_Direction_Down);
-		}
-		QueueCameraMovementCommand(
-			MovementRotation.RotateVector(FVector::RightVector),
-			Delta.X, CameraTags);
-
-		QueueCameraMovementCommand(
-			MovementRotation.RotateVector(FVector::ForwardVector),
-			Delta.Y * -1, CameraTags);
-
-	}
-
-	else if (IsDragging && !InputActionValue.Get<bool>())
-	{
-		IsDragging = false;
-	}
+	// if (!IsDragging && InputActionValue.Get<bool>())
+	// {
+	// 	IsDragging = true;
+	// 	DragStartLocation = UWidgetLayoutLibrary::GetMousePositionOnViewport(GetWorld());
+	// }
+	//
+	// else if (IsDragging && InputActionValue.Get<bool>())
+	// {
+	// 	APawn* Pawn = GetPawn<APawn>();
+	// 	AController* Controller = Pawn ? Pawn->GetController() : nullptr;
+	//
+	// 	// If the player has attempted to move again then cancel auto running
+	// 	if (ALyraPlayerController* LyraController = Cast<ALyraPlayerController>(Controller))
+	// 	{
+	// 		LyraController->SetIsAutoRunning(false);
+	// 	}
+	//
+	// 	const auto MousePosition = UWidgetLayoutLibrary::GetMousePositionOnViewport(GetWorld());
+	// 	auto DragExtents = UWidgetLayoutLibrary::GetViewportWidgetGeometry(GetWorld()).GetLocalSize();
+	// 	DragExtents *= DragExtent;
+	//
+	// 	auto Delta = MousePosition - DragStartLocation;
+	// 	Delta.X = FMath::Clamp(Delta.X, -DragExtents.X, DragExtents.X) / DragExtents.X;
+	// 	Delta.Y = FMath::Clamp(Delta.Y, -DragExtents.Y, DragExtents.Y) / DragExtents.Y;
+	//
+	// 	const FRotator MovementRotation(0.0f, Controller->GetControlRotation().Yaw, 0.0f);
+	//
+	// 	FGameplayTagContainer CameraTags;
+	// 	CameraTags.AddTagFast(TAG_Camera_Drag);
+	// 	if (Delta.X > 0.0f) {
+	// 		CameraTags.AddTag(TAG_Direction_Right);
+	// 	}
+	// 	else {
+	// 		CameraTags.AddTag(TAG_Direction_Left);
+	// 	}
+	// 	if (Delta.Y > 0.0f) {
+	// 		CameraTags.AddTag(TAG_Direction_Up);
+	// 	}
+	// 	else {
+	// 		CameraTags.AddTag(TAG_Direction_Down);
+	// 	}
+	// 	QueueCameraMovementCommand(
+	// 		MovementRotation.RotateVector(FVector::RightVector),
+	// 		Delta.X, CameraTags);
+	//
+	// 	QueueCameraMovementCommand(
+	// 		MovementRotation.RotateVector(FVector::ForwardVector),
+	// 		Delta.Y * -1, CameraTags);
+	//
+	// }
+	//
+	// else if (IsDragging && !InputActionValue.Get<bool>())
+	// {
+	// 	IsDragging = false;
+	// }
 }
 
 void UPlayerCameraHeroComponent::Input_ZoomCamera(const FInputActionValue& InputActionValue)

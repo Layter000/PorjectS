@@ -1,0 +1,23 @@
+{
+    "Version": "1.1",
+    "Data": {
+        "Source": "m:\\unreal engine\\unrealprojects\\porjects\\plugins\\gamefeatures\\mainmodule\\source\\mainmoduleruntime\\cameraplayer\\cameramode_playercamera.cpp",
+        "ProvidedModule": "",
+        "PCH": "m:\\unreal engine\\engines\\releaseue5.2\\engine\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\engine\\sharedpch.engine.shadowerrors.h.pch",
+        "Includes": [
+            "m:\\unreal engine\\unrealprojects\\porjects\\plugins\\gamefeatures\\mainmodule\\intermediate\\build\\win64\\x64\\unrealeditor\\development\\mainmoduleruntime\\definitions.mainmoduleruntime.h",
+            "m:\\unreal engine\\unrealprojects\\porjects\\plugins\\gamefeatures\\mainmodule\\source\\mainmoduleruntime\\cameraplayer\\cameramode_playercamera.h",
+            "m:\\unreal engine\\unrealprojects\\porjects\\source\\lyragame\\camera\\lyracameramode.h",
+            "m:\\unreal engine\\engines\\releaseue5.2\\engine\\source\\runtime\\gameplaytags\\classes\\gameplaytagcontainer.h",
+            "m:\\unreal engine\\engines\\releaseue5.2\\engine\\source\\runtime\\core\\public\\misc\\comparisonutility.h",
+            "m:\\unreal engine\\engines\\releaseue5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\gameplaytags\\uht\\gameplaytagcontainer.generated.h",
+            "m:\\unreal engine\\unrealprojects\\porjects\\intermediate\\build\\win64\\unrealeditor\\inc\\lyragame\\uht\\lyracameramode.generated.h",
+            "m:\\unreal engine\\unrealprojects\\porjects\\plugins\\gamefeatures\\mainmodule\\intermediate\\build\\win64\\unrealeditor\\inc\\mainmoduleruntime\\uht\\cameramode_playercamera.generated.h",
+            "m:\\unreal engine\\engines\\releaseue5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.h",
+            "m:\\unreal engine\\engines\\releaseue5.2\\engine\\intermediate\\build\\win64\\unrealeditor\\inc\\engine\\uht\\kismetmathlibrary.generated.h",
+            "m:\\unreal engine\\engines\\releaseue5.2\\engine\\source\\runtime\\engine\\classes\\kismet\\kismetmathlibrary.inl"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
