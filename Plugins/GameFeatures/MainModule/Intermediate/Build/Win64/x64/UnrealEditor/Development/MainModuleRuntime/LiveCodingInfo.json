@@ -6,12 +6,12 @@
 			"MainModuleRuntime.init.gen.cpp.obj",
 			"PlayerCameraCharacter.gen.cpp.obj",
 			"TestActor.gen.cpp.obj",
+			"CameraMode_PlayerCamera.cpp.obj",
 			"CameraPlayerGameplayTags.cpp.obj",
 			"PlayerCameraCharacter.cpp.obj",
+			"PlayerCameraHeroComponent.cpp.obj",
 			"MainModuleRuntimeModule.cpp.obj",
-			"TestActor.cpp.obj",
-			"CameraMode_PlayerCamera.cpp.obj",
-			"PlayerCameraHeroComponent.cpp.obj"
+			"TestActor.cpp.obj"
 		]
 	}
 }
