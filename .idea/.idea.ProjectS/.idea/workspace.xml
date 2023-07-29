@@ -79,62 +79,25 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="71c1124a-d253-433f-8e1f-01c558399af8" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Abilitys/GA_Camera_FocusMode.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Effects/GE_FocusMode_Cooldown.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/Player/B_CameraController.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/Player/B_PlayerCameraCharacter.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/Spawner/B_Spawner.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/Spawner/EQS/EQS_Spawner_FIeldArround.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CamMove.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_Cam_Look_Mouse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraRotateMode.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CharMove.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_Char_Look_Mouse.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_FocusMode.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_MouseClick01.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_MouseClick02.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_MouseClick03.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Materials/SelectingRing/MI_SelectingRing.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Materials/SelectingRing/M_SelectingRing.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Pawns/B_AgentBase.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Pawns/Interfaces/BPI_SelectebleActor.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/B_LyraHUD.uasset" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/2/N2/AOS8HFVQET0GUF75IJZOE5.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Experiences/DA_AbilitySet_ProjectS.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Experiences/DA_PawnData_ProjectS.uasset" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/DA_InputConfig_CameraPlayer.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_0.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_0.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_1.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_1.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_2.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_2.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_3.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_3.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_4.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_4.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_5.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.patch_5.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.pdb" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor-MainModuleRuntime.pdb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor.modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Abilitys/GA_Camera_FocusMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Player/Abilitys/GA_Camera_FocusMode.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Experiences/B_Strategy_Experience.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Experiences/B_Strategy_Experience.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/AC_.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/B_AgentBase.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/B_PlayerCameraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/B_PlayerCameraCharacter.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_AbilitySet_ProjectS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_AbilitySet_ProjectS.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_InputConfig_CameraPlayer.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_InputConfig_CameraPlayer.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_PawnData_ProjectS.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_PawnData_ProjectS.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraMove.uasset" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraZoom.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraZoom.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/B_PlayerCameraCharacter.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_AbilitySet_ProjectS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_InputConfig_CameraPlayer.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_InputConfig_ProjectS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Game/DA_PawnData_ProjectS.uasset" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_Cam_Look_Mouse.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_Cam_Look_Mouse.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraRotateMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_CameraRotateMode.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_FocusMode.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Actions/IA_FocusMode.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Mappable/IMC_Camera_KBM.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Input/Mappable/IMC_Camera_KBM.uasset" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_StrategyHUDLayout.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_StrategyHUDLayout.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Player/B_PlayerCameraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Player/B_PlayerCameraCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/ZL/ZS8SGO35UV3VWRVJLQZGP7.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/__ExternalActors__/Map/CameraTestMap/E/ZL/ZS8SGO35UV3VWRVJLQZGP7.uasset" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Inc/MainModuleRuntime/UHT/Timestamp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/UnrealEditor/Inc/MainModuleRuntime/UHT/Timestamp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/LiveCodingInfo.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/LiveCodingInfo.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.dep.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.dep.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.dep.lc.json" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.dep.lc.json" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/Module.MainModuleRuntime.cpp.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.dll.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.exp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.exp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response.old" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Intermediate/Build/Win64/x64/UnrealEditor/Development/MainModuleRuntime/UnrealEditor-MainModuleRuntime.lib.response.old" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/MainModule.uplugin" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/MainModule.uplugin" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.cpp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraHeroComponent.cpp" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraHeroComponent.cpp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -143,12 +106,17 @@
   </component>
   <component name="HighlightingSettingsPerFile">
     <setting file="file://C:/Program Files (x86)/Microsoft Visual Studio/2019/Community/MSBuild/Microsoft/VC/v160/Microsoft.MakeFile.targets" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/EnhancedInputComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/EnhancedInput/Source/EnhancedInput/Public/InputActionValue.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Experimental/ModularGameplay/Source/ModularGameplay/Public/Components/GameFrameworkComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Experimental/ModularGameplay/Source/ModularGameplay/Public/Components/GameFrameworkComponentManager.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Experimental/ModularGameplay/Source/ModularGameplay/Public/Components/PawnComponent.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Private/AbilitySystemBlueprintLibrary.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/GameplayAbilitySpec.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Plugins/Runtime/GameplayAbilities/Source/GameplayAbilities/Public/GameplayCueInterface.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Source/Editor/UnrealEd/Private/Kismet2/BlueprintEditorUtils.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Source/Runtime/AIModule/Classes/EnvironmentQuery/Tests/EnvQueryTest_GameplayTags.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/../../Engines/ReleaseUE5.2/Engine/Source/Runtime/GameplayTags/Classes/GameplayTagContainer.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Config/Tags/CameraGametags.ini" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/CameraMode_PlayerCamera.h" root0="FORCE_HIGHLIGHTING" />
@@ -159,6 +127,7 @@
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraHeroComponent.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/CameraPlayer/PlayerCameraHeroComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Source/MainModuleRuntime/MainModuleRuntime.Build.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/LyraGame/AbilitySystem/LyraAbilitySystemComponent.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/LyraGame/Camera/LyraCameraComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/LyraGame/Camera/LyraCameraMode.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/LyraGame/Camera/LyraCameraMode_ThirdPerson.cpp" root0="FORCE_HIGHLIGHTING" />
@@ -169,8 +138,10 @@
     <setting file="file://$PROJECT_DIR$/Source/LyraGame/Character/LyraHeroComponent.cpp" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/LyraGame/Character/LyraHeroComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/LyraGame/Character/LyraPawnExtensionComponent.cpp" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/LyraGame/Character/LyraPawnExtensionComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/LyraGame/Input/LyraInputComponent.h" root0="FORCE_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Source/LyraGame/Input/LyraInputConfig.h" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Source/LyraGame/Player/LyraPlayerController.h" root0="FORCE_HIGHLIGHTING" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -27688,6 +27659,11 @@
       <workItem from="1690453937961" duration="601000" />
       <workItem from="1690457472693" duration="594000" />
       <workItem from="1690463615467" duration="14419000" />
+      <workItem from="1690535887248" duration="3492000" />
+      <workItem from="1690553788675" duration="5107000" />
+      <workItem from="1690623003103" duration="405000" />
+      <workItem from="1690624229510" duration="1243000" />
+      <workItem from="1690630821804" duration="716000" />
     </task>
     <servers />
   </component>
