@@ -28,6 +28,18 @@
 		{
 			"Name": "LyraExampleContent",
 			"Enabled": true
+		},
+		{
+			"Name": "ShooterCore",
+			"Enabled": true
+		},
+		{
+			"Name": "ShooterMaps",
+			"Enabled": true
+		},
+		{
+			"Name": "LyraExtTool",
+			"Enabled": true
 		}
 	]
 }
