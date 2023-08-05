@@ -336,12 +336,12 @@
 /I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\UnrealEditor\Inc\MainModuleRuntime\UHT"
 /I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Source"
 /I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Source\MainModuleRuntime\Public"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Intermediate\Build\Win64\UnrealEditor\Inc\LyraGame\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Source\LyraGame"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Source"
 /I ..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayAbilities\UHT
 /I ..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public
 /I ..\Plugins\Runtime\GameplayAbilities\Source
+/I "M:\Unreal Engine\UnrealProjects\PorjectS\Intermediate\Build\Win64\UnrealEditor\Inc\LyraGame\UHT"
+/I "M:\Unreal Engine\UnrealProjects\PorjectS\Source\LyraGame"
+/I "M:\Unreal Engine\UnrealProjects\PorjectS\Source"
 /I ..\Plugins\Runtime\ReplicationGraph\Intermediate\Build\Win64\UnrealEditor\Inc\ReplicationGraph\UHT
 /I ..\Plugins\Runtime\ReplicationGraph\Source\Public
 /I ..\Plugins\Runtime\ReplicationGraph

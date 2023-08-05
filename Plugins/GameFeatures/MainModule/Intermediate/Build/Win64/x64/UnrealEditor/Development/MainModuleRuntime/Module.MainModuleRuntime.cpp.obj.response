@@ -1,6 +1,6 @@
-"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp"
+M:\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp
 /I .
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Source\MainModuleRuntime\Private"
+/I M:\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Source\MainModuleRuntime\Private
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\CoreUObject\UHT
 /I Runtime\CoreUObject\Public
 /I Runtime
@@ -273,9 +273,9 @@
 /I Runtime\MovieSceneCapture\Public
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\AnimationDataController\UHT
 /I Developer\AnimationDataController\Public
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayMessageRuntime\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameplayMessageRouter\Source"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public"
+/I M:\UnrealProjects\PorjectS\Plugins\GameplayMessageRouter\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayMessageRuntime\UHT
+/I M:\UnrealProjects\PorjectS\Plugins\GameplayMessageRouter\Source
+/I M:\UnrealProjects\PorjectS\Plugins\GameplayMessageRouter\Source\GameplayMessageRuntime\Public
 /I ..\Plugins\FX\Niagara\Intermediate\Build\Win64\UnrealEditor\Inc\Niagara\UHT
 /I ..\Plugins\FX\Niagara\Source\Niagara\Private
 /I ..\Plugins\FX\Niagara\Source\Niagara\Classes
@@ -289,9 +289,9 @@
 /I ..\Plugins\FX\Niagara\Source\NiagaraShader\Public
 /I ..\Plugins\FX\Niagara\Source\NiagaraVertexFactories\Public
 /I Developer\DesktopPlatform\Public
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Inc\CommonUser\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonUser\Source"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonUser\Source\CommonUser\Public"
+/I M:\UnrealProjects\PorjectS\Plugins\CommonUser\Intermediate\Build\Win64\UnrealEditor\Inc\CommonUser\UHT
+/I M:\UnrealProjects\PorjectS\Plugins\CommonUser\Source
+/I M:\UnrealProjects\PorjectS\Plugins\CommonUser\Source\CommonUser\Public
 /I ..\Plugins\Online\OnlineSubsystem\Intermediate\Build\Win64\UnrealEditor\Inc\OnlineSubsystem\UHT
 /I ..\Plugins\Online\OnlineSubsystem\Source
 /I ..\Plugins\Online\OnlineSubsystem\Source\Public
@@ -317,31 +317,31 @@
 /I ..\Plugins\Runtime\DataRegistry\Intermediate\Build\Win64\UnrealEditor\Inc\DataRegistry\UHT
 /I ..\Plugins\Runtime\DataRegistry\Source\DataRegistry\Public
 /I ..\Plugins\Runtime\DataRegistry\Source
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Inc\UIExtension\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\UIExtension\Source"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\UIExtension\Source\Public"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\UIExtension"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Inc\CommonGame\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonGame\Source"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonGame\Source\Public"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonGame"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Inc\ModularGameplayActors\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\ModularGameplayActors\Source"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public"
+/I M:\UnrealProjects\PorjectS\Plugins\UIExtension\Intermediate\Build\Win64\UnrealEditor\Inc\UIExtension\UHT
+/I M:\UnrealProjects\PorjectS\Plugins\UIExtension\Source
+/I M:\UnrealProjects\PorjectS\Plugins\UIExtension\Source\Public
+/I M:\UnrealProjects\PorjectS\Plugins\UIExtension
+/I M:\UnrealProjects\PorjectS\Plugins\CommonGame\Intermediate\Build\Win64\UnrealEditor\Inc\CommonGame\UHT
+/I M:\UnrealProjects\PorjectS\Plugins\CommonGame\Source
+/I M:\UnrealProjects\PorjectS\Plugins\CommonGame\Source\Public
+/I M:\UnrealProjects\PorjectS\Plugins\CommonGame
+/I M:\UnrealProjects\PorjectS\Plugins\ModularGameplayActors\Intermediate\Build\Win64\UnrealEditor\Inc\ModularGameplayActors\UHT
+/I M:\UnrealProjects\PorjectS\Plugins\ModularGameplayActors\Source
+/I M:\UnrealProjects\PorjectS\Plugins\ModularGameplayActors\Source\ModularGameplayActors\Public
 /I ..\Plugins\Experimental\ModularGameplay\Intermediate\Build\Win64\UnrealEditor\Inc\ModularGameplay\UHT
 /I ..\Plugins\Experimental\ModularGameplay\Source\ModularGameplay\Public
 /I ..\Plugins\Experimental\ModularGameplay\Source
 /I ..\Intermediate\Build\Win64\UnrealEditor\Inc\ClientPilot\UHT
 /I Runtime\ClientPilot\Public
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\UnrealEditor\Inc\MainModuleRuntime\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Source"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Source\MainModuleRuntime\Public"
+/I M:\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\UnrealEditor\Inc\MainModuleRuntime\UHT
+/I M:\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Source
+/I M:\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Source\MainModuleRuntime\Public
 /I ..\Plugins\Runtime\GameplayAbilities\Intermediate\Build\Win64\UnrealEditor\Inc\GameplayAbilities\UHT
 /I ..\Plugins\Runtime\GameplayAbilities\Source\GameplayAbilities\Public
 /I ..\Plugins\Runtime\GameplayAbilities\Source
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Intermediate\Build\Win64\UnrealEditor\Inc\LyraGame\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Source\LyraGame"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Source"
+/I M:\UnrealProjects\PorjectS\Intermediate\Build\Win64\UnrealEditor\Inc\LyraGame\UHT
+/I M:\UnrealProjects\PorjectS\Source\LyraGame
+/I M:\UnrealProjects\PorjectS\Source
 /I ..\Plugins\Runtime\ReplicationGraph\Intermediate\Build\Win64\UnrealEditor\Inc\ReplicationGraph\UHT
 /I ..\Plugins\Runtime\ReplicationGraph\Source\Public
 /I ..\Plugins\Runtime\ReplicationGraph
@@ -356,28 +356,29 @@
 /I ..\Plugins\Online\OnlineFramework\Source
 /I ..\Plugins\Online\OnlineFramework\Source\PatchCheck\Public
 /I Runtime\InstallBundleManager\Public
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Inc\CommonLoadingScreen\UHT"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonLoadingScreen\Source"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\AsyncMixin\Source"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\AsyncMixin\Source\Public"
-/I "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\AsyncMixin"
+/I M:\UnrealProjects\PorjectS\Plugins\CommonLoadingScreen\Intermediate\Build\Win64\UnrealEditor\Inc\CommonLoadingScreen\UHT
+/I M:\UnrealProjects\PorjectS\Plugins\CommonLoadingScreen\Source
+/I M:\UnrealProjects\PorjectS\Plugins\CommonLoadingScreen\Source\CommonLoadingScreen\Public
+/I M:\UnrealProjects\PorjectS\Plugins\AsyncMixin\Source
+/I M:\UnrealProjects\PorjectS\Plugins\AsyncMixin\Source\Public
+/I M:\UnrealProjects\PorjectS\Plugins\AsyncMixin
 /I ..\Plugins\Experimental\ControlFlows\Source\ControlFlows\Public
 /I ..\Plugins\Experimental\ControlFlows\Source
-/I ThirdParty\mimalloc\include
-/I ThirdParty\LibTiff\Source\Win64
-/I ThirdParty\LibTiff\Source
-/I "C:\Program Files (x86)\Microsoft Visual Studio\2019\Community\VC\Tools\MSVC\14.29.30133\INCLUDE"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\ucrt"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\shared"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\um"
-/I "C:\Program Files (x86)\Windows Kits\10\include\10.0.18362.0\winrt"
+/external:W0
+/external:I ThirdParty\mimalloc\include
+/external:I ThirdParty\LibTiff\Source\Win64
+/external:I ThirdParty\LibTiff\Source
+/external:I "C:\Program Files\Microsoft Visual Studio\2022\Community\VC\Tools\MSVC\14.36.32532\INCLUDE"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\ucrt"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\shared"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\um"
+/external:I "C:\Program Files (x86)\Windows Kits\10\include\10.0.22621.0\winrt"
 /FI"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
-/FI"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Definitions.MainModuleRuntime.h"
+/FI"M:\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Definitions.MainModuleRuntime.h"
 /Yu"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h"
 /Fp"..\Intermediate\Build\Win64\x64\UnrealEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.pch"
-/Fo"M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp.obj"
-/sourceDependencies "M:\Unreal Engine\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp.dep.json"
+/Fo"M:\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp.obj"
+/sourceDependencies M:\UnrealProjects\PorjectS\Plugins\GameFeatures\MainModule\Intermediate\Build\Win64\x64\UnrealEditor\Development\MainModuleRuntime\Module.MainModuleRuntime.cpp.dep.json
 /Zc:inline
 /nologo
 /Oi
