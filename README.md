@@ -1,6 +1,6 @@
 ProjectS - multiplayer realtime strategy with pause based on lyra.
 
-How to instal
+How to instal:
 1.Build source ue 5.21
 2.Create Lyra Project. Name - ProjectS, Path -  UnrealProjects
 3.Add projectS Files from projectS-main
