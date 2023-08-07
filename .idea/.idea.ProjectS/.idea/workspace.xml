@@ -81,13 +81,31 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="71c1124a-d253-433f-8e1f-01c558399af8" name="Changes" comment="" />
+    <list default="true" id="71c1124a-d253-433f-8e1f-01c558399af8" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/.idea.ProjectS/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" beforeDir="false" afterPath="$PROJECT_DIR$/Config/DefaultGameplayTags.ini" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor.modules" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Binaries/Win64/UnrealEditor.modules" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Experiences/B_Strategy_Experience.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Experiences/B_Strategy_Experience.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Pawns/B_AgentBase.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Pawns/B_AgentBase.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Pawns/Interfaces/BPI_SelectebleActor.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Pawns/Interfaces/BPI_SelectebleActor.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Player/B_CameraController.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Player/B_CameraController.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Player/B_PlayerCameraCharacter.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/Player/B_PlayerCameraCharacter.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_StrategyHUDLayout.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_StrategyHUDLayout.uasset" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_Test.uasset" beforeDir="false" afterPath="$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Content/UI/W_Test.uasset" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="HighlightingSettingsPerFile">
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
+    <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="mock:///Dummy.cpp" root0="SKIP_HIGHLIGHTING" />
     <setting file="file://$PROJECT_DIR$/Plugins/GameFeatures/MainModule/Config/Tags/CameraGametags.ini" root0="FORCE_HIGHLIGHTING" />
@@ -133,6 +151,7 @@
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
     &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;,
     &quot;XThreadsFramesViewSplitterKey&quot;: &quot;0.36541355&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
     &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
     &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
@@ -30354,7 +30373,12 @@
       <workItem from="1691234700884" duration="1309000" />
       <workItem from="1691243304674" duration="5214000" />
       <workItem from="1691310642501" duration="719000" />
-      <workItem from="1691312434857" duration="1270000" />
+      <workItem from="1691312434857" duration="2607000" />
+      <workItem from="1691320892676" duration="1216000" />
+      <workItem from="1691339719888" duration="781000" />
+      <workItem from="1691379045231" duration="522000" />
+      <workItem from="1691381515238" duration="1286000" />
+      <workItem from="1691426166298" duration="3772000" />
     </task>
     <servers />
   </component>
