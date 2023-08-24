@@ -33,5 +33,7 @@ void AAgentController::BeginPlay()
 void AAgentController::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
+
+	
 }
 

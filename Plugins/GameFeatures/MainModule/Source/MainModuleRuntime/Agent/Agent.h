@@ -18,17 +18,25 @@ public:
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;
-
-public:
 	// Called every frame
 	virtual void Tick(float DeltaTime) override;
 
 	// Called to bind functionality to input
 	virtual void SetupPlayerInputComponent(class UInputComponent* PlayerInputComponent) override;
 
+protected:
+	virtual void GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const override;
+	
 	UFUNCTION(BlueprintCallable)
 	virtual void SetGenericTeamId(const FGenericTeamId& TeamID) override;
 	UFUNCTION(BlueprintCallable)
 	virtual FGenericTeamId GetGenericTeamId() const override;
-	
+
+private:
+	UFUNCTION()
+	void OnRep_AgentTeamID(FGenericTeamId OldTeamID);
+private:
+	UPROPERTY(ReplicatedUsing = OnRep_AgentTeamID)
+	FGenericTeamId AgentTeamID;
+
 };

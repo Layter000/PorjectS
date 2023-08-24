@@ -17,9 +17,11 @@ public:
 
 	UFUNCTION(BlueprintCallable)
 	virtual void SetGenericTeamId(const FGenericTeamId& NewTeamID) override;
+
 	UFUNCTION(BlueprintCallable)
 	virtual FGenericTeamId GetGenericTeamId() const override;
-	
+
+
 protected:
 	// Called when the game starts or when spawned
 	virtual void BeginPlay() override;

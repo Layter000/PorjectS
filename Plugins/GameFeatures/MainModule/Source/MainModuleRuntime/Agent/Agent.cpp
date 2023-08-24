@@ -3,6 +3,8 @@
 
 #include "Agent.h"
 
+#include "Net/UnrealNetwork.h"
+
 
 // Sets default values
 AAgent::AAgent(const FObjectInitializer& ObjectInitializer)
@@ -31,13 +33,31 @@ void AAgent::SetupPlayerInputComponent(UInputComponent* PlayerInputComponent)
 	Super::SetupPlayerInputComponent(PlayerInputComponent);
 }
 
+void AAgent::GetLifetimeReplicatedProps(TArray<FLifetimeProperty>& OutLifetimeProps) const
+{
+	Super::GetLifetimeReplicatedProps(OutLifetimeProps);
+
+	DOREPLIFETIME(ThisClass, AgentTeamID);
+}
+
 void AAgent::SetGenericTeamId(const FGenericTeamId& TeamID)
 {
-	Super::SetGenericTeamId(TeamID);
+	if (HasAuthority())
+	{
+		const FGenericTeamId OldTeamID = AgentTeamID;
+		AgentTeamID = TeamID;
+		ConditionalBroadcastTeamChanged(this, OldTeamID, AgentTeamID);
+	}
+	//Super::SetGenericTeamId(TeamID);
 }
 
 FGenericTeamId AAgent::GetGenericTeamId() const
 {
-	return Super::GetGenericTeamId();
+	return AgentTeamID;
+}
+
+void AAgent::OnRep_AgentTeamID(FGenericTeamId OldTeamID)
+{
+	ConditionalBroadcastTeamChanged(this, OldTeamID, AgentTeamID);
 }
 
